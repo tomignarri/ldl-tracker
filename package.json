@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://gitlab.com/personal-projects52201/ldl-tracker/issues"
   },
-  "homepage": "https://gitlab.com/personal-projects52201/ldl-tracker#readme"
+  "homepage": "https://gitlab.com/personal-projects52201/ldl-tracker#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
